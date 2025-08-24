@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ridhwan 👋
 
-<!--
-**RidhwanHazian/RidhwanHazian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Languages and Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Ridhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RidhwanHazian&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RidhwanHazian&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=RidhwanHazian&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎵 Just Vibin’
+<img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="150" />
