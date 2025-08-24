@@ -3,6 +3,14 @@
 
 ---
 
+## 👨‍💻 About Me
+- 🌱 Currently learning **web development** and exploring **AI/ML**  
+- 🔧 Experienced in **C++, Java, Python, and full-stack development**  
+- 🎯 Goal: Build impactful projects and contribute to open-source  
+- ⚡ Fun fact: I enjoy solving puzzles & playing survival shooter games  
+
+---
+
 ## 🛠️ Languages and Tools  
 
 <p align="center">
@@ -43,12 +51,38 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhwanHazian&layout=compact&theme=radical" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RidhwanHazian&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+- 🎾 [EaseSportRentals](https://github.com/RidhwanHazian/EaseSportRentals) – Sports rental system in C++  
+- ☁️ [WeatherApp](https://github.com/RidhwanHazian/WeatherApp) – MIT App Inventor weather app with dynamic UI  
+- ⛺ [TasikBiruCamps](https://github.com/RidhwanHazian/camp) – Booking system using XAMPP & MySQL  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yourname@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🎵 Just Vibin’  
 
 <p align="center">
-  <img src="assets/animeVibes.gif" width="300" alt="Lo-fi anime studying" />
+  <img src="assets/animeVibes.gif" width="400" alt="Lo-fi anime studying" />
 </p>
-
-
