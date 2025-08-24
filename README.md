@@ -47,12 +47,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RidhwanHazian&show_icons=true&title_color=dac8a8&text_color=ffffff&icon_color=437492&bg_color=0c1c27" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhwanHazian&layout=compact&title_color=dac8a8&text_color=ffffff&bg_color=0c1c27" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RidhwanHazian&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhwanHazian&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RidhwanHazian&ring=dac8a8&fire=437492&currStreakLabel=dac8a8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&background=0c1c27" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=RidhwanHazian&theme=tokyonight" height="150"/>
 </p>
 
 
