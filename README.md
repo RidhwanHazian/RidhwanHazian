@@ -47,12 +47,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RidhwanHazian&show_icons=true&title_color=dac8a8&text_color=ffffff&icon_color=437492&bg_color=0c1c27" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhwanHazian&layout=compact&title_color=dac8a8&text_color=ffffff&bg_color=0c1c27" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RidhwanHazian&show_icons=true&title_color=dac8a8&text_color=ffffff&icon_color=437492&bg_color=0c1c27,142f44,0c1c27&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhwanHazian&layout=compact&title_color=dac8a8&text_color=ffffff&bg_color=0c1c27,142f44,0c1c27&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RidhwanHazian&ring=dac8a8&fire=437492&currStreakLabel=dac8a8&sideNums=ffffff&sideLabels=437492&background=0c1c27" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=RidhwanHazian&ring=dac8a8&fire=437492&currStreakLabel=dac8a8&sideNums=ffffff&sideLabels=437492&dates=6f97a0&background=0c1c27,142f44,0c1c27&hide_border=true" height="150"/>
 </p>
 
 
