@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RidhwanHazian&theme=radical" height="150"/>
+  <img src="assets/animeVibes.gif" width="300" alt="Lo-fi anime studying" />
 </p>
 
 ---
