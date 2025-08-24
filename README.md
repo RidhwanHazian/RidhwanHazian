@@ -52,5 +52,5 @@
 ## 🎵 Just Vibin’  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="300" />
 </p>
