@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RidhwanHazian&ring=dac8a8&fire=437492&currStreakLabel=dac8a8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=dac8a8&background=0c1c27" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=RidhwanHazian&ring=dac8a8&fire=437492&currStreakLabel=dac8a8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&background=0c1c27" height="150"/>
 </p>
 
 
