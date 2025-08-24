@@ -62,10 +62,8 @@
 - 🎾 [EaseSportRentals](https://github.com/RidhwanHazian/EaseSportRentals) – Sports rental system in C  
 - ☁️ [WeatherApp](https://github.com/RidhwanHazian/WeatherApp) – MIT App Inventor weather app with dynamic UI  
 - ⛺ [TasikBiruCamps](https://github.com/RidhwanHazian/camp) – Booking system using XAMPP & MySQL  
-- 🎮 [RidhwanGame](https://github.com/RidhwanHazian/RidhwanGame) – A 2D browser-based survival shooting game  
-  ▶ [Play Live](https://ridhwanhazian.github.io/RidhwanGame/)  
-- ❓ [QuizApp](https://github.com/RidhwanHazian/QuizApp) – Web-based multiple-choice quiz built with HTML, CSS, and JS  
-  ▶ [Try Quiz](https://ridhwanhazian.github.io/QuizApp/)  
+- 🎮 [RidhwanGame](https://github.com/RidhwanHazian/RidhwanGame) – A 2D browser-based survival shooting game    ▶ [Play Live](https://ridhwanhazian.github.io/RidhwanGame/)  
+- ❓ [QuizApp](https://github.com/RidhwanHazian/QuizApp) – Web-based multiple-choice quiz built with HTML, CSS, and JS    ▶ [Try Quiz](https://ridhwanhazian.github.io/QuizApp/)  
 
 
 ---
