@@ -43,16 +43,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhwanHazian&layout=compact&theme=radical" height="150"/>
 </p>
 
-<p align="center">
-  <img src="assets/animeVibes.gif" width="300" alt="Lo-fi anime studying" />
-</p>
-
 ---
 
 ## 🎵 Just Vibin’  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="Lo-fi anime studying" />
+  <img src="assets/animeVibes.gif" width="300" alt="Lo-fi anime studying" />
 </p>
 
 
