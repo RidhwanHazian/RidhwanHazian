@@ -47,13 +47,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <!-- Choosing a darker, pixel-friendly theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RidhwanHazian&show_icons=true&theme=nightowl" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhwanHazian&layout=compact&theme=nightowl" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RidhwanHazian&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhwanHazian&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RidhwanHazian&theme=nightowl" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=RidhwanHazian&theme=tokyonight" height="150"/>
 </p>
 
 
