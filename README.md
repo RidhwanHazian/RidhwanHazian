@@ -84,5 +84,5 @@
 ## 🎵 Just Vibin’  
 
 <p align="center">
-  <img src="assets/animeVibes.gif" width="400" alt="Lo-fi anime studying" />
+  <img src="assets/KNYA.gif" width="400" alt="Lo-fi anime studying" />
 </p>
