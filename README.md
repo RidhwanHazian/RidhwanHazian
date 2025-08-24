@@ -52,6 +52,7 @@
 ## 🎵 Just Vibin’  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="Lo-fi anime studying" />
 </p>
+
 
