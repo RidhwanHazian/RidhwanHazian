@@ -8,6 +8,7 @@
 - 🔧 Experienced in **C++, Java, Python, and full-stack development**  
 - 🎯 Goal: Build impactful projects and contribute to open-source  
 - ⚡ Fun fact: I enjoy solving puzzles & playing survival shooter games  
+[Send me an email](mailto:mridhwan950@email.com?subject=Hello%20Ridhwan!&body=I%20just%20saw%20your%20GitHub%20profile!)
 
 ---
 
