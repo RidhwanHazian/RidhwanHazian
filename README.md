@@ -59,7 +59,7 @@
 
 ## 🚀 Featured Projects  
 
-- 🎾 [EaseSportRentals](https://github.com/RidhwanHazian/EaseSportRentals) – Sports rental system in C++  
+- 🎾 [EaseSportRentals](https://github.com/RidhwanHazian/EaseSportRentals) – Sports rental system in C
 - ☁️ [WeatherApp](https://github.com/RidhwanHazian/WeatherApp) – MIT App Inventor weather app with dynamic UI  
 - ⛺ [TasikBiruCamps](https://github.com/RidhwanHazian/camp) – Booking system using XAMPP & MySQL  
 
