@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Ridhwan 👋  
+# Hi, I'm Ridhwan 👋  
 🎓 Diploma in Computer Science @ UiTM | 💻 Passionate about coding, web dev, and problem-solving  
 
 ---
