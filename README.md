@@ -52,8 +52,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ridhwanhazian&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ridhwanhazian&theme=tokyonight" height="150"/>
 </p>
+
 
 
 ---
