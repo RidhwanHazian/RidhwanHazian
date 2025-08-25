@@ -55,8 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ridhwanhazian&theme=tokyonight" height="150"/>
 </p>
 
-
-
 ---
 
 ## 🚀 Featured Projects  
