@@ -40,6 +40,7 @@
 <p align="center">
   <img src="assets/Projectlogo.png" alt="Project" width="50" height="50">
   <img src="assets/Visiologo.png" alt="Visio" width="50" height="50">
+  <img src="assets/OutSystems-logo-digital-2018-alternative-color.png" alt="OS" width="50" height="50">
 </p>
 
 ---
