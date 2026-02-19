@@ -60,7 +60,7 @@
 
 ## 🚀 Featured Projects  
 
-- 🏢 [VISTA – Internship Practical Training Project](https://github.com/RidhwanHazian/OutsystemProject) – Enterprise inspection & task tracking system developed during my internship at MRCSB (AIM Department). Includes technical report, documentation, and system overview (internal enterprise project; no public source code).  
+- 🏢 [VISTA – Internship Practical Training Project](https://github.com/RidhwanHazian/OutsystemProject) – Enterprise inspection & task tracking system developed during my internship. 
 - 🎾 [EaseSportRentals](https://github.com/RidhwanHazian/EaseSportRentals) – Sports rental system in C  
 - ☁️ [WeatherApp](https://github.com/RidhwanHazian/WeatherApp) – MIT App Inventor weather app with dynamic UI  
 - ⛺ [TasikBiruCamps](https://github.com/RidhwanHazian/camp) – Booking system using XAMPP & MySQL  
