@@ -60,13 +60,13 @@
 
 ## 🚀 Featured Projects  
 
+- 🏢 [VISTA – Internship Practical Training Project](https://github.com/RidhwanHazian/OutsystemProject) – Enterprise inspection & task tracking system developed during my internship at MRCSB (AIM Department). Includes technical report, documentation, and system overview (internal enterprise project; no public source code).  
 - 🎾 [EaseSportRentals](https://github.com/RidhwanHazian/EaseSportRentals) – Sports rental system in C  
 - ☁️ [WeatherApp](https://github.com/RidhwanHazian/WeatherApp) – MIT App Inventor weather app with dynamic UI  
 - ⛺ [TasikBiruCamps](https://github.com/RidhwanHazian/camp) – Booking system using XAMPP & MySQL  
 - 🎮 [RidhwanGame](https://github.com/RidhwanHazian/RidhwanGame) – A 2D browser-based survival shooting game    ▶ [Play Live](https://ridhwanhazian.github.io/RidhwanGame/)  
 - ❓ [QuizApp](https://github.com/RidhwanHazian/QuizApp) – Web-based multiple-choice quiz built with HTML, CSS, and JS    ▶ [Try Quiz](https://ridhwanhazian.github.io/QuizApp/)  
 - 🚗 [GrabStudent](https://github.com/RidhwanHazian/GrabStudent) – Web-based Grab booking platform with dashboards for Customers, Drivers, and Admins  
-
 
 
 ---
